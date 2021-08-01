@@ -1,0 +1,167 @@
+.header{
+    display:flex;
+    justify-content:space-evenly;
+    <img src = "bg2.jpg" alt = "background2">
+    
+}
+
+.mainContent{
+     background-color : #f9ff33;
+     border: solid #000000;
+    border-radius: 10px;
+    padding:15px;
+    
+    font-size:20px;
+    font-family: fantasy;
+}
+
+.points{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-between;
+    background-color : #00ffff;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.points2{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-between;
+    background-color : #00ffff;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.points3{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-between;
+    background-color : #00ffff;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.points4{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-between;
+    background-color : #00ffff;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.points5{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-between;
+    background-color : #00ffff;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.img1{
+    display:flex;
+    justify-content : center;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.img2{
+    display:flex;
+    justify-content : center;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.img3{
+    display:flex;
+    justify-content : center;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.img4{
+    display:flex;
+    justify-content : center;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.img5{
+    display:flex;
+    justify-content : center;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.footer{
+    align-content:space-between;
+    background-color : #f9ff33;
+    border: 3px solid #000000;
+    border-radius: 15px;
+    margin-top:13px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+
+
+.hprlnk1{
+    display:flex;
+    justify-content:space-evenly;
+    background-color : #f9ff33;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    padding:15px;
+    margin-top:15px;
+    font-size:20px;
+    font-family: Helvetica;
+    font-weight:400;
+}
+
+body{
+<img src = "bg.jpg" alt = "background">
+}
